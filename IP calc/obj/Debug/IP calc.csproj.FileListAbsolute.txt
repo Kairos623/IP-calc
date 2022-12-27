@@ -1,0 +1,43 @@
+C:\Users\Himera\source\repos\IP calc\bin\Debug\IP calc.exe.config
+C:\Users\Himera\source\repos\IP calc\bin\Debug\IP calc.exe
+C:\Users\Himera\source\repos\IP calc\bin\Debug\IP calc.pdb
+C:\Users\Himera\source\repos\IP calc\obj\Debug\IP calc.csproj.AssemblyReference.cache
+C:\Users\Himera\source\repos\IP calc\obj\Debug\IP_calc.Form1.resources
+C:\Users\Himera\source\repos\IP calc\obj\Debug\IP_calc.Properties.Resources.resources
+C:\Users\Himera\source\repos\IP calc\obj\Debug\IP calc.csproj.GenerateResource.cache
+C:\Users\Himera\source\repos\IP calc\obj\Debug\IP calc.csproj.CoreCompileInputs.cache
+C:\Users\Himera\source\repos\IP calc\obj\Debug\IP calc.exe
+C:\Users\Himera\source\repos\IP calc\obj\Debug\IP calc.pdb
+C:\Users\Admin\Desktop\IP calc\obj\Debug\IP calc.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\IP calc\obj\Debug\IP calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\IP calc\obj\Debug\IP_calc.Form1.resources
+C:\Users\Admin\Desktop\IP calc\obj\Debug\IP_calc.Properties.Resources.resources
+C:\Users\Admin\Desktop\IP calc\obj\Debug\IP calc.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\IP calc\obj\Debug\IP calc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IP calc\obj\Debug\IP calc.exe
+C:\Users\Admin\Desktop\IP calc\obj\Debug\IP calc.pdb
+C:\Users\Admin\Desktop\IP calc\bin\Debug\IP calc.exe.config
+C:\Users\Admin\Desktop\IP calc\bin\Debug\IP calc.exe
+C:\Users\Admin\Desktop\IP calc\bin\Debug\IP calc.pdb
+C:\Users\User\Desktop\IP calc\bin\Debug\IP calc.exe.config
+C:\Users\User\Desktop\IP calc\bin\Debug\IP calc.exe
+C:\Users\User\Desktop\IP calc\bin\Debug\IP calc.pdb
+C:\Users\User\Desktop\IP calc\obj\Debug\IP calc.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IP calc\obj\Debug\IP calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\IP calc\obj\Debug\IP_calc.Form1.resources
+C:\Users\User\Desktop\IP calc\obj\Debug\IP_calc.Properties.Resources.resources
+C:\Users\User\Desktop\IP calc\obj\Debug\IP calc.csproj.GenerateResource.cache
+C:\Users\User\Desktop\IP calc\obj\Debug\IP calc.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IP calc\obj\Debug\IP calc.exe
+C:\Users\User\Desktop\IP calc\obj\Debug\IP calc.pdb
+C:\Users\redse\OneDrive\Рабочий стол\IP calc\bin\Debug\IP calc.exe.config
+C:\Users\redse\OneDrive\Рабочий стол\IP calc\bin\Debug\IP calc.exe
+C:\Users\redse\OneDrive\Рабочий стол\IP calc\bin\Debug\IP calc.pdb
+C:\Users\redse\OneDrive\Рабочий стол\IP calc\obj\Debug\IP calc.csproj.AssemblyReference.cache
+C:\Users\redse\OneDrive\Рабочий стол\IP calc\obj\Debug\IP calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\redse\OneDrive\Рабочий стол\IP calc\obj\Debug\IP_calc.Form1.resources
+C:\Users\redse\OneDrive\Рабочий стол\IP calc\obj\Debug\IP_calc.Properties.Resources.resources
+C:\Users\redse\OneDrive\Рабочий стол\IP calc\obj\Debug\IP calc.csproj.GenerateResource.cache
+C:\Users\redse\OneDrive\Рабочий стол\IP calc\obj\Debug\IP calc.csproj.CoreCompileInputs.cache
+C:\Users\redse\OneDrive\Рабочий стол\IP calc\obj\Debug\IP calc.exe
+C:\Users\redse\OneDrive\Рабочий стол\IP calc\obj\Debug\IP calc.pdb
